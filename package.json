@@ -1,0 +1,22 @@
+{
+  "name": "gitprac",
+  "version": "1.0.0",
+  "description": "- MAIN CHANGE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshithkrpt/gitpprac.git"
+  },
+  "author": "harshithkrpt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshithkrpt/gitpprac/issues"
+  },
+  "homepage": "https://github.com/harshithkrpt/gitpprac#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
