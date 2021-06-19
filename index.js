@@ -1,9 +1,9 @@
-import _ from 'lodash';
+const _ = require("lodash")
 
 
 class E {
     s() {
-        console.log(_.constant)
+        console.log("Hello World")
     }
 }
 
